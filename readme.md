@@ -5,3 +5,5 @@
 (your email, your app password)
 4. import db
 5. run# laptop-shop
+
+pass mặc định: 123456
